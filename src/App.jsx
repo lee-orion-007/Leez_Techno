@@ -686,7 +686,7 @@ const Footer = ({ darkMode }) => {
                     <div>
                         <h3 className="text-lg font-bold mb-4">Contact Info</h3>
                         <address className="not-italic text-gray-400">
-                            <p className="mb-2">123 Tech Street</p>
+                            <p className="mb-2">345 Tech Street</p>
                             <p className="mb-2">San Francisco, CA 94105</p>
                             <p className="mb-2">+1 (555) 123-4567</p>
                             <p className="mb-2">info@leeztechnology.com</p>
